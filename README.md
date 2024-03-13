@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nonelwa Madumela
 - 👀 I’m interested in data engineering.
-- 🌱 I’m currently mastering Python and AWS tools for data modelling.
+- 🌱 I’m currently mastering Python and AWS tools.
 
 <!---
 NonelwaM/NonelwaM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
