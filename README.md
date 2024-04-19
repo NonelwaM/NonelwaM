@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nonelwa Madumela
-- 👀 I’m interested in data engineering.
-- 🌱 I’m currently mastering Python and AWS tools.
+- 👀 I’m a Junior Data Engineer
+- 🎓 I graduated from Stellenbosch University in 2023 with a BEng In Electrical and Electronic Engineering (Robotics)
 
 <!---
 NonelwaM/NonelwaM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
