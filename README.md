@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nonelwa Madumela
-- 👀 I’m a Junior Data Engineer
+- 👀 I’m a Data Engineer
 - 🎓 I graduated from Stellenbosch University in 2023 with a BEng In Electrical and Electronic Engineering (Robotics)
 
 <!---
